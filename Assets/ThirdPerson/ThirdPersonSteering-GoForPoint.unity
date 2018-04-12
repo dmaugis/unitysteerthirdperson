@@ -1973,7 +1973,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 113348, guid: 54eb5844754051b40a918a84c33b7c1a, type: 2}
       propertyPath: m_Name
-      value: Wanderer-NoSlowDown (1)
+      value: Wanderer-MoveToClicked
       objectReference: {fileID: 0}
     - target: {fileID: 13772780, guid: 54eb5844754051b40a918a84c33b7c1a, type: 2}
       propertyPath: m_Materials.Array.data[0]

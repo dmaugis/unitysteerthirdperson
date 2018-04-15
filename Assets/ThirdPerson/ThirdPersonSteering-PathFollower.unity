@@ -2225,10 +2225,10 @@ MonoBehaviour:
   _radius: 1
   _minSpeedForTurning: 0.1
   _movementPriority: 0
-  _turnTime: 0.16
+  _turnTime: 0.25
   _mass: 1
   _allowedMovementAxes: {x: 1, y: 0, z: 1}
-  _arrivalRadius: 0.15
+  _arrivalRadius: 0.25
   _maxSpeed: 0.8
   _maxForce: 20
   _canMove: 1

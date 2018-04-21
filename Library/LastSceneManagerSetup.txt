@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/ThirdPerson/ThirdPersonSteering-PathFollower.unity
-  isLoaded: 1
-  isActive: 1

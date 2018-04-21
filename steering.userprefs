@@ -1,13 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UnitySteerExamples/Examples/3D/01 - Basic/PathFollowingController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ThirdPerson/Behaviors/SteerForClickPointAI.cs">
     <Files>
-      <File FileName="Assets/ThirdPerson/Behaviors/TickedThirdPerson.cs" Line="1" Column="1" />
-      <File FileName="Assets/ThirdPerson/Behaviors/BipedThirdPerson.cs" Line="1" Column="1" />
-      <File FileName="Assets/UnitySteer/3D/Behaviors/AutonomousVehicle.cs" Line="1" Column="1" />
-      <File FileName="Assets/UnitySteer/3D/Behaviors/TickedVehicle.cs" Line="1" Column="1" />
+      <File FileName="Assets/ThirdPerson/Behaviors/SteerForClickPoint.cs" Line="1" Column="1" />
       <File FileName="Assets/ThirdPerson/Behaviors/GoForPointControllerThirdPerson.cs" Line="1" Column="1" />
+      <File FileName="Assets/ThirdPerson/Behaviors/SteerForClickPointAI.cs" Line="32" Column="30" />
+      <File FileName="Assets/UnityManual/ClickToMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityManual/LocomotionSimpleAgent.cs" Line="1" Column="1" />
       <File FileName="Assets/UnitySteerExamples/Examples/3D/01 - Basic/PathFollowingController.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnitySteer/3D/Vector3Pathway.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
